@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yzucyh
-- 👀 I’m interested in Developing App, Web service
+- 👀 I’m interested in Developing Digital Twins content
 - 🌱 I’m currently learning Backend domain knowledge
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... contact eric0618sses@gmail.com if needed
